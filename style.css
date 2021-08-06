@@ -8,6 +8,8 @@ body {
     outline: none;
     background-color: bisque;
     border: none;
+    font-family: 'Merriweather', serif;
+    margin-bottom: 20px;
 }
 
 #buttons {
@@ -15,5 +17,6 @@ body {
 }
 
 button {
-    margin-right: 3px;
+    margin-right: 5px;
+    font-family: 'Montserrat', sans-serif;
 }
