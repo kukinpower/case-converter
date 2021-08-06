@@ -3,13 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <title>Case Converter</title>
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather&display=swap" rel="stylesheet">
 </head>
 <body>
 <div class="title"><h1>Case Converter</h1></div>
 
-<textarea></textarea>
+<textarea id="textBox" placeholder="Right text here..."></textarea>
 
-<div>
+<div id="buttons">
     <button id="upper-case" onclick="toUpperCase()">Upper Case</button>
     <button id="lower-case" onclick="toLowerCase()">Lower Case</button>
     <button id="proper-case" onclick="toProperCase()">Proper Case</button>

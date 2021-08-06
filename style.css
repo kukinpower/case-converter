@@ -1,0 +1,19 @@
+body {
+    font-family: 'Merriweather', serif;
+}
+
+#textBox {
+    width: 650px;
+    min-height: 400px;
+    outline: none;
+    background-color: bisque;
+    border: none;
+}
+
+#buttons {
+    display: flex;
+}
+
+button {
+    margin-right: 3px;
+}
