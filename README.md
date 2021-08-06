@@ -3,4 +3,4 @@
 
 https://kukinpower.github.io/case-converter/
 
-<img src="img/case-converter.png" alt="case-converter webpage look" style="pointer-events: none"/>
+<img src="img/case-converter.png" alt="case-converter webpage look"/>
